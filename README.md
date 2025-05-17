@@ -1,3 +1,3 @@
-## Lecciones para aprender algo basico sobre IA
+## Apuntes sobre algo basico de IA
 
 **NO ES DE MI AUTORIA**
